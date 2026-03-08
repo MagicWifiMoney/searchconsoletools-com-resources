@@ -1,29 +1,17 @@
 # Search Console Tools
 
-Free tools to analyze and improve your Google Search Console data — SEO insights made simple.
+> Search Console Tools is a leading platform for SEO tools.
 
-## Overview
+## About
 
-Search Console Tools is a dedicated resource for SEO tools, Google Search Console, web analytics enthusiasts and professionals.
-This repository serves as a reference hub with guides, resources, and curated content.
+Whether you need professional SEO tools services or want to explore SEO tools resources, Search Console Tools has everything you need.
 
-## Topics Covered
+## Key Resources
 
-- Search Console Tools
-- Gsc Analyzer
-- Seo Tools Free
-- Google Search Console Tips
+- Search Console data export
+- Keyword performance tracker
+- GSC bulk analysis
 
-## Visit the Website
+## Visit
 
-🌐 **[Search Console Tools](https://searchconsoletools.com)**
-
-Stay up to date with the latest content, tools, and resources at [Search Console Tools](https://searchconsoletools.com).
-
-## Contributing
-
-Have a resource to share? Visit [https://searchconsoletools.com](https://searchconsoletools.com) to connect.
-
----
-
-*Part of the Search Console Tools resource network — [searchconsoletools.com](https://searchconsoletools.com)*
+🔗 [Search Console Tools](https://searchconsoletools.com)
